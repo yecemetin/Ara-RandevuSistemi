@@ -1,0 +1,27 @@
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.exe.config
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.exe
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.pdb
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Form1.resources
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Properties.Resources.resources
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.csproj.GenerateResource.Cache
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.exe
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.pdb
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.csprojResolveAssemblyReference.cache
+c:\users\yecem\documents\visual studio 2012\Projects\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Form2.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.exe.config
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.exe
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.pdb
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.exe
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\RandevuSistemi.pdb
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\mscorlib.dll
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\normidna.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\normnfc.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\normnfd.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\normnfkc.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\bin\Debug\normnfkd.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.csprojResolveAssemblyReference.cache
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Form1.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Form2.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.Properties.Resources.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\RandevuSistemi\RandevuSistemi\obj\Debug\RandevuSistemi.csproj.GenerateResource.Cache
